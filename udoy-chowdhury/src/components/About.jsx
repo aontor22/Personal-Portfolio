@@ -2,7 +2,7 @@
  * @copyright 2025 Udoy Chowdhury
  * @license Apache-2.0
  */
-//LOL
+//LO
 
 import React from 'react'
 
